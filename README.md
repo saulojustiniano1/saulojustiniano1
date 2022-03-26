@@ -12,6 +12,8 @@
 
 ### 👨🏻‍💻Sobre mim
 
+<img align="right" src=".github/image.jpg" height="auto" width="160"/> 
+
 * 💻Sou desenvolvedor Front-end
 * 😀Gosto de programar e estou por dentro de todas as novas tecnologias
 * 🕓Tenho quase 6 meses de experiência na área de programação
@@ -79,7 +81,6 @@
 * ♨️Gosto de assistir filmes e séries
 * 🏖️Gosto de Jogar vôlei
 * 🍕Comida preferida: Lasanha e Pizza
-
 ##
 
 <section align="center">
