@@ -11,7 +11,7 @@
 ##
 ### 👨🏻‍💻Sobre mim
 
-<img align="right" src=".github/image.jpg" height="auto" width="320"/> 
+<img align="right" eight="auto" width="320" src=".github/image-1.jpg"> 
 
 * 💻Sou desenvolvedor Front-end
 * 😀Gosto de programar e estou por dentro de todas as novas tecnologias
@@ -79,11 +79,7 @@
 * 🏖️Gosto de Jogar vôlei
 * 🍕Comida preferida: Lasanha e Pizza
 
-##
-
-<section align="center">
-  <img width="50%" src=".github/image.jpg">
-</section>
+<img align="center" width="100%" src=".github/image-2.jpg">
 
 <h2 align="center">📫Contatos</h2>
 
