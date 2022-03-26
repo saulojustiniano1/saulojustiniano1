@@ -82,7 +82,7 @@
 
 ##
 
-<img align="center" width="100%" src=".github/image-2.jpg">
+<img align="center" width="100%" src=".github/image-2.png">
 
 <h2 align="center">📫Contatos</h2>
 
