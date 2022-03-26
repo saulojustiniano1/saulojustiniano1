@@ -40,8 +40,6 @@
   <img src="https://img.shields.io/badge/-microsoft_office-f24017?style=for-the-badge&logo=microsoft-office&labelColor=f24017">
 </section>
 
-</section>
-
 ### 🚩Outros conhecimentos
 
 <section align="left">
@@ -65,9 +63,8 @@
   <img src="https://img.shields.io/badge/-typescript-1572B6?style=for-the-badge&logo=typescript&labelColor=1572B6&logoColor=white">
 </section>
 
-##
+<h2 align="center">📈Git Stats</h2>
 
-<h3 align="center">📈Git Stats</h3>
 <section align="center">
   <img width="95%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=SauloJustiniano1&theme=react-dark&hide_border=true&area=true" alt="Saulo Justiniano">
 </section>
@@ -81,6 +78,7 @@
 * ♨️Gosto de assistir filmes e séries
 * 🏖️Gosto de Jogar vôlei
 * 🍕Comida preferida: Lasanha e Pizza
+
 ##
 
 <section align="center">
