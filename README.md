@@ -1,11 +1,11 @@
 <header align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Saulo%20Justiniano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Saulo%20Justiniano;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+WEB;MINHA+EXPERIÊNCIA+>+6+MESES+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=180&section=header&text=Saulo%20Justiniano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Saulo%20Justiniano;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+WEB;MINHA+EXPERIÊNCIA+>+6+MESES+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29">
 </header>
 
 <section align="center">
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SauloJustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="SauloJustiniano github stats"/>
-  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloJustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SauloJustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
+  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloJustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
 </section>
 
 ##
@@ -67,7 +67,7 @@
 <h2 align="center">📈Git Stats</h2>
 
 <section align="center">
-  <img width="95%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=SauloJustiniano1&theme=react-dark&hide_border=true&area=true" alt="Saulo Justiniano">
+  <img width="95%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=SauloJustiniano1&theme=react-dark&hide_border=true&area=true&color=00bfbf&text_color=00bfbf&bg_color=29293e" alt="Saulo Justiniano">
 </section>
 
 ##
@@ -99,7 +99,7 @@
 </section>
 
 <footer align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=150&section=footer">
 </footer>
 
 <!-- <section align="center">
