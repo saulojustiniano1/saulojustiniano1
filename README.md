@@ -67,6 +67,7 @@
 
 ##
 
+<h3 align="center">📈Git Stats</h3>
 <section align="center">
   <img width="95%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=SauloJustiniano1&theme=react-dark&hide_border=true&area=true" alt="Saulo Justiniano">
 </section>
