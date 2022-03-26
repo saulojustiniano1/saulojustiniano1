@@ -9,6 +9,7 @@
 </section>
 
 ##
+
 ### 👨🏻‍💻Sobre mim
 
 <img align="right" eight="auto" width="320" src=".github/image-1.jpg"> 
@@ -78,6 +79,8 @@
 * ♨️Gosto de assistir filmes e séries
 * 🏖️Gosto de Jogar vôlei
 * 🍕Comida preferida: Lasanha e Pizza
+
+##
 
 <img align="center" width="100%" src=".github/image-2.jpg">
 
