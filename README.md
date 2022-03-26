@@ -8,9 +8,10 @@
   <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloJustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </section>
 
+##
 ### 👨🏻‍💻Sobre mim
 
-<img align="right" src=".github/image.jpg" height="auto" width="400"/> 
+<img align="right" src=".github/image.jpg" height="auto" width="320"/> 
 
 * 💻Sou desenvolvedor Front-end
 * 😀Gosto de programar e estou por dentro de todas as novas tecnologias
