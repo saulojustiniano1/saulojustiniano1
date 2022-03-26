@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻Sobre mim
 
-<img align="right" src=".github/image.jpg" height="auto" width="160"/> 
+<img align="right" src=".github/image.jpg" height="auto" width="35%"/> 
 
 * 💻Sou desenvolvedor Front-end
 * 😀Gosto de programar e estou por dentro de todas as novas tecnologias
