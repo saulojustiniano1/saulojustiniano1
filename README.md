@@ -83,7 +83,7 @@
 ##
 
 <section align="center">
-  <img width="60%" src=".github/image.jpg">
+  <img width="50%" src=".github/image.jpg">
 </section>
 
 <h2 align="center">📫Contatos</h2>
