@@ -17,7 +17,7 @@
 * 💻Sou desenvolvedor Front-end
 * 😀Gosto de programar e estou por dentro de todas as novas tecnologias
 * 🕓Tenho quase 6 meses de experiência na área de programação
-* ❇️ Tenho experiência em análise e desenvolvimento de sistemas
+* ❇️Tenho experiência em análise e desenvolvimento de sistemas
 
 ##
 
