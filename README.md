@@ -10,7 +10,7 @@
 
 ##
 
-### 👨🏻‍💻Sobre mim
+### 👨🏻‍💻Sobre mim:
 
 <img align="right" height="auto" width="320" src=".github/image-1.jpg">
 
@@ -21,7 +21,7 @@
 
 ##
 
-### 📦Habilidades principais
+### 📦Habilidades principais:
 
 <section align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white">
 </section>
 
-### 🛠️Ferramentas
+### 🛠️Ferramentas:
 
 <section align="left">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-1572B6?style=for-the-badge&logo=visual-studio-code&labelColor=1572B6&logoColor=white">
@@ -41,21 +41,21 @@
   <img src="https://img.shields.io/badge/-microsoft_office-f24017?style=for-the-badge&logo=microsoft-office&labelColor=f24017">
 </section>
 
-### 🚩Outros conhecimentos
+### 🚩Outros conhecimentos:
 
 <section align="left">
   <img src="https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-JavaScript-eddb1c?style=for-the-badge&logo=javascript&labelColor=eddb1c&logoColor=white">
 </section>
 
-### 📖Estudando neste momento
+### 📖Estudando neste momento:
 
 <section align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelcolor=1572B6&logoColor=white">
 </section>
 
-### ✏️Áreas de interesse
+### ✏️Áreas de interesse:
 
 <section align="left">
   <img src="https://img.shields.io/badge/-React.js-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white">
@@ -72,7 +72,7 @@
 
 ##
 
-### 🌟Curiosidades
+### 🌟Curiosidades:
 
 * 🎮Gosto de jogar jogos eletrônicos: CS:GO, etc
 * 🧩Gosto de jogar boardgame quando da vontade
