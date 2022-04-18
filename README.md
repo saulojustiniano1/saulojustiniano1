@@ -1,11 +1,11 @@
-<header align="center">
+<section align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=180&section=header&text=Saulo%20Justiniano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35">
   <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Saulo%20Justiniano;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+WEB;MINHA+EXPERIÊNCIA+>+6+MESES+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29">
-</header>
+</section>
 
 <section align="center">
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SauloJustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
-  <img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloJustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SauloJustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
+  <img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloJustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
 </section>
 
 ##
@@ -98,9 +98,9 @@
   <a href="https://discord.gg/93H3nmNkH3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </section>
 
-<footer align="center">
+<section align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=150&section=footer">
-</footer>
+</section>
 
 <!-- <section align="center">
   <img width="90%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=SauloJustiniano1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Saulo Justiniano"/>
