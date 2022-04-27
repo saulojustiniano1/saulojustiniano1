@@ -4,8 +4,8 @@
 </section>
 
 <section align="center">
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SauloJustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
-  <img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloJustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
+  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=saulojustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
+  <img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulojustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
 </section>
 
 ##
@@ -67,7 +67,7 @@
 <h2 align="center">📈Git Stats</h2>
 
 <section align="center">
-  <img width="95%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=SauloJustiniano1&theme=react-dark&hide_border=true&area=true&color=00bfbf&text_color=00bfbf&bg_color=29293e" alt="Saulo Justiniano">
+  <img width="95%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=saulojustiniano1&theme=react-dark&hide_border=true&area=true&color=00bfbf&text_color=00bfbf&bg_color=29293e" alt="Saulo Justiniano">
 </section>
 
 ##
@@ -91,7 +91,7 @@
 <section align="center">
   <a href="saulojustiniano1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.youtube.com/channel/UC8pqvdCFakiAf0mJ4MfbKMA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  <a href="https://www.twitch.tv/Sauron_F" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  <a href="https://www.twitch.tv/Saulirio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   <a href="https://twitter.com/SauloJustinian1" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white">
   <a href="https://instagram.com/saulojustiniano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="https://www.linkedin.com/in/saulojustiniano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
