@@ -3,14 +3,15 @@
   <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Saulo%20Justiniano;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+WEB;MINHA+EXPERIÊNCIA+>+6+MESES+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29"/>
 </section>
 
+<!--  ./STAT -->
 <section align="center">
   <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=saulojustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
-  <img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulojustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
+  <img width="44%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulojustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
 </section>
 
 ##
 
-### 👨🏻‍💻Sobre mim:
+### 👨🏻‍💻Sobre mim
 
 <img align="right" height="auto" width="320" src=".github/terminal-prog.png"/>
 
@@ -21,7 +22,7 @@
 
 ##
 
-### 📦Habilidades principais:
+### 📦Habilidades principais
 
 <section align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white"/>
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white"/>
 </section>
 
-### 🛠️Ferramentas:
+### 🛠️Ferramentas
 
 <section align="left">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-1572B6?style=for-the-badge&logo=visual-studio-code&labelColor=1572B6&logoColor=white"/>
@@ -41,14 +42,14 @@
   <img src="https://img.shields.io/badge/-microsoft_office-f24017?style=for-the-badge&logo=microsoft-office&labelColor=f24017"/>
 </section>
 
-### 🚩Outros conhecimentos:
+### 🚩Outros conhecimentos
 
 <section align="left">
   <img src="https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/-JavaScript-eddb1c?style=for-the-badge&logo=javascript&labelColor=eddb1c&logoColor=white"/>
 </section>
 
-### 📖Estudando neste momento:
+### 📖Estudando neste momento
 
 <section align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white"/>
@@ -56,7 +57,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-eddb1c?style=for-the-badge&logo=javascript&labelColor=eddb1c&logoColor=white"/>
 </section>
 
-### ✏️Áreas de interesse:
+### ✏️Áreas de interesse
 
 <section align="left">
   <img src="https://img.shields.io/badge/-React_native-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white"/>
@@ -68,12 +69,12 @@
 <h2 align="center">📈Git Stats</h2>
 
 <section align="center">
-  <img width="95%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=saulojustiniano1&theme=react-dark&hide_border=true&area=true&color=00bfbf&text_color=00bfbf&bg_color=29293e" alt="Saulo Justiniano"/>
-</section>
+   <img width="95%" src="https://github-readme-activity-graph.cyclic.app/graph?username=saulojustiniano1&theme=react-dark&hide_border=true&area=true&color=00bfbf&text_color=00bfbf&bg_color=29293e" />
+</sectionv>
 
 ##
 
-### 🌟Curiosidades:
+### 🌟Curiosidades
 
 - 🎮Gosto de jogar jogos eletrônicos: CS:GO, etc
 - 🧩Gosto de jogar boardgame quando da vontade
@@ -90,37 +91,37 @@
 <h2 align="center">📫Contatos</h2>
 
 <section align="center">
-  <a 
-    href="saulojustiniano1@gmail.com" 
+  <a
+    href="saulojustiniano1@gmail.com"
     target="_blank"
   >
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a 
+  <a
     href="https://www.youtube.com/channel/UC8pqvdCFakiAf0mJ4MfbKMA" target="_blank"
   >
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <a 
-    href="https://www.twitch.tv/Saulirio" 
+  <a
+    href="https://www.twitch.tv/Saulirio"
     target="_blank"
   >
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  <a 
-    href="https://twitter.com/SauloJustinian1" 
+  <a
+    href="https://twitter.com/SauloJustinian1"
     target="_blank"
   >
   <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
-  <a 
-  href="https://instagram.com/saulojustiniano" 
+  <a
+  href="https://instagram.com/saulojustiniano"
   target="_blank"
   >
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <a 
-  href="https://www.linkedin.com/in/saulojustiniano" 
+  <a
+  href="https://www.linkedin.com/in/saulojustiniano"
   target="_blank"
   >
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a 
-    href="https://discord.gg/93H3nmNkH3" 
+  <a
+    href="https://discord.gg/93H3nmNkH3"
     target="_blank"
   >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -132,6 +133,9 @@
 
 <!-- <section align="center">
   <img width="90%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=saulojustiniano1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Saulo Justiniano"/>
+</section> -->
+<!-- <section align="center">
+  <img width="95%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=saulojustiniano1&theme=react-dark&hide_border=true&area=true&color=00bfbf&text_color=00bfbf&bg_color=29293e" alt="Saulo Justiniano"/>
 </section> -->
 
 <!-- saulojustiniano1/saulojustiniano1 é um repositório ✨especial✨ que você pode usar para adicionar um README.mdao seu perfil do GitHub. Certifique-se de que é público e inicialize-o com um README para começar. -->
