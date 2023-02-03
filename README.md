@@ -9,6 +9,8 @@
   <img width="44%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulojustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
 </section>
 
+##
+
 ### 👨🏻‍💻Sobre mim
 
 <img align="right" height="auto" width="320" src=".github/terminal-prog.png"/>
@@ -64,7 +66,7 @@
   <img src="https://img.shields.io/badge/-Node.js-83CD29?style=for-the-badge&logo=node.js&labelColor=83CD29&logoColor=white"/>
 </section>
 
-##
+###
 
 <h2 align="center">📈Git Stats</h2>
 
@@ -88,7 +90,7 @@
   <img height="auto" width="80%" src=".github/web-developing.png"/>
 </section>
 
-##
+###
 
 <h2 align="center">📫Contatos</h2>
 
