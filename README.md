@@ -5,8 +5,8 @@
 
 <!--  ./STAT -->
 <section align="center">
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=saulojustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
-  <img width="44%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulojustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
+  <img width="56%" height="auto" src="https://github-readme-stats.vercel.app/api?username=saulojustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
+  <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulojustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
 </section>
 
 ##
@@ -18,7 +18,7 @@
 - 💻Sou desenvolvedor Front-end
 - 😀Gosto de programar e estou por dentro de todas as novas tecnologias
 - 🕓Tenho quase 6 meses de experiência na área da programação
-- Tenho experiência em análise e desenvolvimento de sistemas
+- 🧑🏻‍💻Estou cursando análise e desenvolvimento de sistemas (ADS)
 
 ##
 
@@ -92,6 +92,17 @@
 </section>
 
 ###
+
+<!-- ---
+
+<!-- <section align="center">
+  <img height="auto" width="60%" src="./.github/banner-clasSeven.png"/>
+</section>
+
+- Grupo de estudo de programação
+-
+-
+-  -->
 
 <h2 align="center">📫Contatos</h2>
 
