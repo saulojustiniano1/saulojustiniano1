@@ -38,9 +38,10 @@
   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/-GitHub%20Desktop-9032ad?style=for-the-badge&logo=github&labelColor=9032ad"/>
   <img src="https://img.shields.io/badge/-Windows-1572B6?style=for-the-badge&logo=windows&labelColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=3"/>
-  <img src="https://img.shields.io/badge/-Windows%20Terminal-444444?style=for-the-badge&logo=windowsterminal&labelColor=444444"/>
+  <img src="https://img.shields.io/badge/-Linux-444?style=for-the-badge&logo=linux&labelColor=3"/>
+  <img src="https://img.shields.io/badge/-Windows%20Terminal-444444?style=for-the-badge&logo=windowsterminal&labelColor=44444"/>
   <img src="https://img.shields.io/badge/-microsoft_office-f24017?style=for-the-badge&logo=microsoft-office&labelColor=f24017"/>
+  <img src="https://img.shields.io/badge/-vite-030567?style=for-the-badge&logo=vite&labelColor=030567"/>
 </section>
 
 ### 🚩Outros conhecimentos
@@ -52,19 +53,17 @@
 ### 📖Estudando neste momento
 
 <section align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelcolor=1572B6&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React.js-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-eddb1c?style=for-the-badge&logo=javascript&labelColor=eddb1c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-83CD29?style=for-the-badge&logo=node.js&labelColor=83CD29&logoColor=white"/>
 </section>
 
 ### ✏️Áreas de interesse
 
 <section align="left">
   <img src="https://img.shields.io/badge/-React_native-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React.js-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white"/>
   <img src="https://img.shields.io/badge/-typescript-1572B6?style=for-the-badge&logo=typescript&labelColor=1572B6&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-83CD29?style=for-the-badge&logo=node.js&labelColor=83CD29&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-eddb1c?style=for-the-badge&logo=javascript&labelColor=eddb1c&logoColor=white"/>
 </section>
 
 ###
@@ -108,7 +107,7 @@
 
 <section align="center">
   <a
-    href="saulojustiniano1@gmail.com"
+    href="#"
     target="_blank"
   >
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -137,7 +136,7 @@
   >
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a
-    href="https://discord.gg/93H3nmNkH3"
+    href="#"
     target="_blank"
   >
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
