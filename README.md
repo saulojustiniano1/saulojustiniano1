@@ -11,7 +11,7 @@
 
 ##
 
-### 👨🏻‍💻Sobre mim
+### 👨🏻‍💻 Sobre mim
 
 <img align="right" height="auto" width="320" src=".github/terminal-prog.png"/>
 
@@ -22,7 +22,7 @@
 
 ##
 
-### 📦Habilidades principais
+### 📦 Habilidades principais
 
 <section align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white"/>
 </section>
 
-### 🛠️Ferramentas
+### 🛠️ Ferramentas
 
 <section align="left">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-1572B6?style=for-the-badge&logo=visual-studio-code&labelColor=1572B6&logoColor=white"/>
@@ -44,13 +44,13 @@
   <img src="https://img.shields.io/badge/-vite-030567?style=for-the-badge&logo=vite&labelColor=030567"/>
 </section>
 
-### 🚩Outros conhecimentos
+### 🚩 Outros conhecimentos
 
 <section align="left">
   <img src="https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117"/>
 </section>
 
-### 📖Estudando neste momento
+### 📖 Estudando neste momento
 
 <section align="left">
   <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white"/>
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/-Node.js-83CD29?style=for-the-badge&logo=node.js&labelColor=83CD29&logoColor=white"/>
 </section>
 
-### ✏️Áreas de interesse
+### ✏️ Áreas de interesse
 
 <section align="left">
   <img src="https://img.shields.io/badge/-React_native-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white"/>
@@ -68,7 +68,7 @@
 
 ###
 
-<h2 align="center">📈Git Stats</h2>
+<h2 align="center">📈 Git Stats</h2>
 
 <section align="center">
    <img width="96%" src="https://github-readme-activity-graph.cyclic.app/graph?username=saulojustiniano1&theme=react-dark&hide_border=true&area=true&color=00bfbf&text_color=00bfbf&bg_color=29293e" />
@@ -76,7 +76,7 @@
 
 ##
 
-### 🌟Curiosidades
+### 🌟 Curiosidades
 
 - 🎮 Gosto de jogar jogos eletrônicos: CS:GO, etc
 - 🧩 Gosto de jogar boardgame quando da vontade
