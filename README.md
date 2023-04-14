@@ -15,10 +15,10 @@
 
 <img align="right" height="auto" width="320" src=".github/terminal-prog.png"/>
 
-- 💻Sou desenvolvedor Front-end
-- 😀Gosto de programar e estou por dentro de todas as novas tecnologias
-- 🕓Tenho quase 6 meses de experiência na área da programação
-- 🧑🏻‍💻Estou cursando análise e desenvolvimento de sistemas (ADS)
+- 💻 Sou desenvolvedor Front-end
+- 😀 Gosto de programar e estou por dentro de todas as novas tecnologias
+- 🕓 Tenho quase 6 meses de experiência na área da programação
+- 🧑🏻‍💻 Estou cursando análise e desenvolvimento de sistemas (ADS)
 
 ##
 
@@ -78,11 +78,11 @@
 
 ### 🌟Curiosidades
 
-- 🎮Gosto de jogar jogos eletrônicos: CS:GO, etc
-- 🧩Gosto de jogar boardgame quando da vontade
-- ♨️Gosto de assistir filmes e séries
-- 🏖️Gosto de Jogar vôlei
-- 🍕Comida preferida: Lasanha e Pizza
+- 🎮 Gosto de jogar jogos eletrônicos: CS:GO, etc
+- 🧩 Gosto de jogar boardgame quando da vontade
+- ♨️ Gosto de assistir filmes e séries
+- 🏖️ Gosto de Jogar vôlei
+- 🍕 Comida preferida: Lasanha e Pizza
 
 ##
 
