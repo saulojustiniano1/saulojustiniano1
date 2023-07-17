@@ -70,9 +70,9 @@
 
 <h2 align="center">📈 Git Stats</h2>
 
-<section align="center">
-   <img width="96%" src="https://github-readme-activity-graph.cyclic.app/graph?username=saulojustiniano1&theme=react-dark&hide_border=true&area=true&color=00bfbf&text_color=00bfbf&bg_color=29293e" />
-</section>
+<div align="center">
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saulojustiniano1&bg_color=29293e&theme=react&hide_border=true&area=true" />
+</div>
 
 ##
 
