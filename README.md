@@ -107,7 +107,7 @@
 
 <section align="center">
   <a
-    href="#"
+    href="saulojustiniano.dev@gamil.com"
     target="_blank"
   >
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -116,7 +116,7 @@
   >
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   <a
-    href="https://www.twitch.tv/Saulirio"
+    href="#"
     target="_blank"
   >
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
