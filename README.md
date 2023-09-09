@@ -54,7 +54,7 @@
 
 <section align="left">
 
-  <img src="https://img.shields.io/badge/-Java-eddb1c?style=for-the-badge&logo=java&labelColor=eddb1c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-eddb1c?style=for-the-badge&logo=openjdk&labelColor=eddb1c&logoColor=white"/>
   
 </section>
 
