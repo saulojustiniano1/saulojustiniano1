@@ -15,7 +15,7 @@
 
 <img align="right" height="auto" width="320" src=".github/terminal-prog.png"/>
 
-- 💻 Sou desenvolvedor Front-end
+- 💻 Software developer
 - 😀 Gosto de programar e estou por dentro de todas as novas tecnologias
 - 🕓 Tenho quase 6 meses de experiência na área da programação
 - 🧑🏻‍💻 Estou cursando análise e desenvolvimento de sistemas (ADS)
@@ -53,10 +53,9 @@
 ### 📖 Estudando neste momento
 
 <section align="left">
-  <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React.js-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-eddb1c?style=for-the-badge&logo=javascript&labelColor=eddb1c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-83CD29?style=for-the-badge&logo=node.js&labelColor=83CD29&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/-Java-eddb1c?style=for-the-badge&logo=java&labelColor=eddb1c&logoColor=white"/>
+  
 </section>
 
 ### ✏️ Áreas de interesse
@@ -64,6 +63,9 @@
 <section align="left">
   <img src="https://img.shields.io/badge/-React_native-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white"/>
   <img src="https://img.shields.io/badge/-typescript-1572B6?style=for-the-badge&logo=typescript&labelColor=1572B6&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-83CD29?style=for-the-badge&logo=node.js&labelColor=83CD29&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React.js-41b0cd?style=for-the-badge&logo=react&labelColor=41b0cd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-eddb1c?style=for-the-badge&logo=javascript&labelColor=eddb1c&logoColor=white"/>
 </section>
 
 ###
