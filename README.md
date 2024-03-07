@@ -83,16 +83,8 @@
 
 ### 🌟 Curiosidades
 
-<<<<<<< HEAD
-- 🎮 Gosto de jogar jogos eletrônicos: CS:GO, etc
-- 🧩 Gosto de jogar boardgames quando da vontade
-- ♨️ Gosto de assistir filmes e séries
-- 🏖️ Gosto de Jogar vôlei
-- 🍕 Comida preferida: Lasanha e Pizza
-=======
 - 🎮Gosto de jogar jogos eletrônicos: CS:GO, etc
 - ♨️Gosto de assistir filmes e séries
->>>>>>> 8bdbc5a (update: README)
 
 ##
 
