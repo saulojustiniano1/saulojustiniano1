@@ -1,6 +1,6 @@
 <section align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=180&section=header&text=Saulo%20Justiniano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Saulo%20Justiniano;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+WEB;MINHA+EXPERIÊNCIA+>+6+MESES+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29"/>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Saulo%20Justiniano;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+WEB;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29"/>
 </section>
 
 <!--  ./STAT -->
